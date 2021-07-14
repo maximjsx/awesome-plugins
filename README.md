@@ -17,3 +17,29 @@ A list of my favorite **Minecraft plugins**, tools, and resources. Most of them 
 - [Tools](#tools)
 - [Resources](#resources)
 - [Performance](#performance)
+
+# Plugins
+
+# Libraries
+
+# Server Software
+
+# Resourcepack
+
+## Shaders
+
+## Packs
+
+## Plugins & Libraries
+
+# Proxy
+
+## Software
+
+## Plugins
+
+# Tools
+
+# Resources
+
+# Performance
