@@ -19,10 +19,14 @@ A list of my favorite **Minecraft plugins**, tools, and resources. Most of them 
 - [Performance](#performance)
 
 # Plugins
+- **FastAsyncWorldEdit**: Like WorldEdit but with better performance.
+- **LuckPerms**: Permissions plugin for managing ranks and permissions.
 
 # Libraries
 
 # Server Software
+- **Paper**: Optimized server software with performance improvements.
+- **Purpur**: Extended Paper with extra features.
 
 # Resourcepack
 
