@@ -23,6 +23,7 @@ A list of my favorite **Minecraft plugins**, tools, and resources. Most of them 
 - **LuckPerms**: Permissions plugin for managing ranks and permissions.
 
 # Libraries
+- **PacketEvents** Good ProtocolLib alternative
 
 # Server Software
 - **Paper**: Optimized server software with performance improvements.
