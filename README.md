@@ -19,6 +19,7 @@ A list of my favorite **Minecraft plugins**, tools, and resources. Most of them 
 - [Performance](#performance)
 
 # Plugins
+- **FancyPhysics** Adds funny Minecraft physic effects.
 - **FastAsyncWorldEdit**: Like WorldEdit but with better performance.
 - **LuckPerms**: Permissions plugin for managing ranks and permissions.
 
