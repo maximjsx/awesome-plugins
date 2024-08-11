@@ -24,6 +24,7 @@ A list of my favorite **Minecraft plugins**, tools, and resources. Most of them 
 - **LuckPerms**: Permissions plugin for managing ranks and permissions.
 
 # Libraries
+- **EntityLib** Additional features to PacketEvents like EntityMeta.
 - **PacketEvents** Good ProtocolLib alternative
 
 # Server Software
