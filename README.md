@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/47ca3720-6287-426b-83bc-25ae42e25342">
   <h1>Awesome Plugins 🏝️</h1>
   <p>
   Do you want to <b>build</b> a modern, fancy <b>server</b> (like <b>MCC Island</b> or <b>Cytooxien</b>) but struggle to find the right resources?
