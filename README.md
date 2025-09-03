@@ -11,6 +11,8 @@
   Most of them are <b>free</b>, <b>open-source</b> and support the <b>latest Minecraft version.</b></p>
 </div>
 
+[My blog entry](https://maximjsx.com/blog/best-minecraft-plugins-2025)
+
 # Table of Contents
 
 - [Plugins](#plugins)
