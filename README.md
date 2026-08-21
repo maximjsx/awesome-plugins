@@ -307,3 +307,4 @@ https://github.com/orgs/Elytrium/repositories
 - [**Minecraft server optimization guide**](https://github.com/YouHaveTrouble/minecraft-optimization) How to optimize the performance of your Minecraft server by changing certain settings & more
 
 ## Other Resources
+- [**ServerBuddy**](https://serverbuddy.net/): Free Java and Bedrock server directory with live status, player-count history, uptime, MOTD, and version history
