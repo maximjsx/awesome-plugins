@@ -293,6 +293,7 @@ https://github.com/orgs/Elytrium/repositories
 - [**Velocity**](https://github.com/PaperMC/Velocity): A modern, fast, and flexible Minecraft proxy for connecting multiple servers
 
 ## Plugins
+- [**Kordon**](https://github.com/KordonLabs/mc-kordon-plugin): Open-source AntiVPN and anti-bot plugin for Velocity and BungeeCord that blocks VPNs, proxies and bot waves at login (needs a free Kordon account)
 
 
 
